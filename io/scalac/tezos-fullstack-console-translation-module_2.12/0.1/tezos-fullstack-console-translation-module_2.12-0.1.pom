@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>Scalac</groupId>
+    <groupId>io.scalac</groupId>
     <artifactId>tezos-fullstack-console-translation-module_2.12</artifactId>
     <packaging>jar</packaging>
     <description>Tezos-FullStack-Console-Translation-Module</description>
     <version>0.1</version>
     <name>Tezos-FullStack-Console-Translation-Module</name>
     <organization>
-        <name>Scalac</name>
+        <name>io.scalac</name>
     </organization>
     <url>http://www.scalac.io/</url>
     <licenses>
