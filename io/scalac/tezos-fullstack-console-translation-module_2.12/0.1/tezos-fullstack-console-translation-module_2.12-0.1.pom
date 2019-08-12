@@ -4,9 +4,9 @@
     <groupId>io.scalac</groupId>
     <artifactId>tezos-fullstack-console-translation-module_2.12</artifactId>
     <packaging>jar</packaging>
-    <description>Tezos-FullStack-Console-Translation-Module</description>
+    <description>tezos-fullstack-console-translation-module</description>
     <version>0.1</version>
-    <name>Tezos-FullStack-Console-Translation-Module</name>
+    <name>tezos-fullstack-console-translation-module</name>
     <organization>
         <name>io.scalac</name>
     </organization>
